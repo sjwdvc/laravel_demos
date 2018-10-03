@@ -59,8 +59,8 @@
                     </ul>
                 </div>
                 <a class="h5 text-white" href="/home">
-                    <img class="fa" src="/images/examenplanning_placeholder_16x16.png"> <span
-                            class="h6 font-w600 sidebar-mini-hide">Examenplanning</span>
+                    <img class="fa" src="/assets/img/favicons/favicon-16x16.png"> <span
+                            class="h6 font-w600 sidebar-mini-hide">Laravel demos</span>
                 </a>
             </div>
             <!-- END Side Header -->
@@ -74,54 +74,10 @@
                     <li class="nav-main-heading"><span class="sidebar-mini-hide">Pages</span></li>
                     <li>
                         <a class="nav-submenu" data-toggle="nav-submenu" href="#"><i class="si si-wrench"></i><span
-                                    class="sidebar-mini-hide">Manage examens</span></a>
+                                    class="sidebar-mini-hide">Demos</span></a>
                         <ul>
                             <li>
-                                <a href="/schoolyears/create">Schooljaren aanmaken</a>
-                            </li>
-                            <li>
-                                <a href="/periods/create">Examenperioden aanmaken</a>
-                            </li>
-                            <li>
-                                <a href="/slots">Slots aanmaken</a>
-                            </li>
-                            <li>
-                                <a href="/slots/assignable/show">Slots inplannen</a>
-                            </li>
-                            <li>
-                                <a href="/appointments">Kalender inzien</a>
-                            </li>
-                            <li>
-                                <a href="/exams/create">Examen aanmaken</a>
-                            </li>
-                            <li>
-                            <li>
-                                <a href="/home">Examen inplannen</a>
-                            </li>
-                            <li>
-                                <a href="/home">Examen wijzigen</a>
-                            </li>
-                        </ul>
-                    </li>
-                    <li>
-                        <a class="nav-submenu" data-toggle="nav-submenu" href="#"><i class="si si-wrench"></i><span
-                                    class="sidebar-mini-hide">Manage studenten</span></a>
-                        <ul>
-                            <li>
-                                <a href="/students/create">Student aanmaken</a>
-                            </li>
-                            <li>
-                                <a href="/students/contact">Mail studenten</a>
-                            </li>
-                        </ul>
-                    </li>
-                    <li>
-                        <a class="nav-submenu" data-toggle="nav-submenu" href="#"><i
-                                    class="si si-calendar"></i><span
-                                    class="sidebar-mini-hide">Agenda inzien</span></a>
-                        <ul>
-                            <li>
-                                <a href="/agenda">Persoonlijk</a>
+                                <a href="/demos/migrations&relations">Demo - migration & relations</a>
                             </li>
                         </ul>
                     </li>
